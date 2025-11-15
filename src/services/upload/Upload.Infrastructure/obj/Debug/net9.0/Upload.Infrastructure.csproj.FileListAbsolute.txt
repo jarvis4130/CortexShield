@@ -20,3 +20,4 @@ c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content
 c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Infrastructure\obj\Debug\net9.0\refint\Upload.Infrastructure.dll
 c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Infrastructure\obj\Debug\net9.0\Upload.Infrastructure.pdb
 c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Infrastructure\obj\Debug\net9.0\ref\Upload.Infrastructure.dll
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Infrastructure\obj\Debug\net9.0\Upload.Infrastructure.sourcelink.json

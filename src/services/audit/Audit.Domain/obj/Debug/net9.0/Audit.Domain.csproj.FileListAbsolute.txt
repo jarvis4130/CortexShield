@@ -1,0 +1,12 @@
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Domain\bin\Debug\net9.0\Audit.Domain.deps.json
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Domain\bin\Debug\net9.0\Audit.Domain.dll
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Domain\bin\Debug\net9.0\Audit.Domain.pdb
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Domain\obj\Debug\net9.0\Audit.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Domain\obj\Debug\net9.0\Audit.Domain.AssemblyInfoInputs.cache
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Domain\obj\Debug\net9.0\Audit.Domain.AssemblyInfo.cs
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Domain\obj\Debug\net9.0\Audit.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Domain\obj\Debug\net9.0\Audit.Domain.sourcelink.json
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Domain\obj\Debug\net9.0\Audit.Domain.dll
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Domain\obj\Debug\net9.0\refint\Audit.Domain.dll
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Domain\obj\Debug\net9.0\Audit.Domain.pdb
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Domain\obj\Debug\net9.0\ref\Audit.Domain.dll

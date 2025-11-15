@@ -74,3 +74,4 @@ c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content
 c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Api\obj\Debug\net9.0\Upload.Api.csproj.Up2Date
 c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Api\obj\Debug\net9.0\Upload.Api.genruntimeconfig.cache
 c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Api\obj\Debug\net9.0\ref\Upload.Api.dll
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Api\obj\Debug\net9.0\Upload.Api.sourcelink.json

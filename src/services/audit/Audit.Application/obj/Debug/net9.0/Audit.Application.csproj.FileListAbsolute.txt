@@ -1,0 +1,16 @@
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Application\bin\Debug\net9.0\Audit.Application.deps.json
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Application\bin\Debug\net9.0\Audit.Application.dll
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Application\bin\Debug\net9.0\Audit.Application.pdb
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Application\bin\Debug\net9.0\Audit.Domain.dll
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Application\bin\Debug\net9.0\Audit.Domain.pdb
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Application\obj\Debug\net9.0\Audit.Application.csproj.AssemblyReference.cache
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Application\obj\Debug\net9.0\Audit.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Application\obj\Debug\net9.0\Audit.Application.AssemblyInfoInputs.cache
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Application\obj\Debug\net9.0\Audit.Application.AssemblyInfo.cs
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Application\obj\Debug\net9.0\Audit.Application.csproj.CoreCompileInputs.cache
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Application\obj\Debug\net9.0\Audit.Application.sourcelink.json
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Application\obj\Debug\net9.0\Audit.Ap.F78CD5B4.Up2Date
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Application\obj\Debug\net9.0\Audit.Application.dll
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Application\obj\Debug\net9.0\refint\Audit.Application.dll
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Application\obj\Debug\net9.0\Audit.Application.pdb
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\audit\Audit.Application\obj\Debug\net9.0\ref\Audit.Application.dll

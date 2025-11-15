@@ -18,4 +18,22 @@ public class ContentRepository : IContentRepository
     {
         await _container.CreateItemAsync(content, new PartitionKey(content.contentId));
     }
+
+    public async Task<Content?> GetByIdAsync(string contentId)
+    {
+        try
+        {
+            var response = await _container.ReadItemAsync<Content>(contentId, new PartitionKey(contentId));
+            return response.Resource;
+        }
+        catch (CosmosException ex) when (ex.StatusCode == System.Net.HttpStatusCode.NotFound)
+        {
+            return null;
+        }
+    }
+
+    public async Task UpdateAsync(Content content)
+    {
+        await _container.ReplaceItemAsync(content, content.id, new PartitionKey(content.contentId));
+    }
 }

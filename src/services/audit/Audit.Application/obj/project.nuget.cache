@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QzKQRXkH7qo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LAVANYA\\OneDrive\\Desktop\\CortexShield – Real-time Intelligent Content Moderation System\\src\\services\\audit\\Audit.Application\\Audit.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LAVANYA\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\LAVANYA\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\LAVANYA\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\LAVANYA\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -46,7 +46,6 @@ public class InitUploadHandler : IRequestHandler<InitUploadCommand, InitUploadRe
         {
             id = contentId,
             contentId = contentId,
-            ContentId = contentId,
             Type = request.Type,
             FileName = request.FileName,
             ContentHash = request.ContentHash,

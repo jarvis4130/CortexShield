@@ -1,0 +1,16 @@
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Application\bin\Debug\net9.0\Content.Application.deps.json
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Application\bin\Debug\net9.0\Content.Application.dll
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Application\bin\Debug\net9.0\Content.Application.pdb
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Application\bin\Debug\net9.0\Content.Domain.dll
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Application\bin\Debug\net9.0\Content.Domain.pdb
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Application\obj\Debug\net9.0\Content.Application.csproj.AssemblyReference.cache
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Application\obj\Debug\net9.0\Content.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Application\obj\Debug\net9.0\Content.Application.AssemblyInfoInputs.cache
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Application\obj\Debug\net9.0\Content.Application.AssemblyInfo.cs
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Application\obj\Debug\net9.0\Content.Application.csproj.CoreCompileInputs.cache
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Application\obj\Debug\net9.0\Content.Application.sourcelink.json
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Application\obj\Debug\net9.0\Content..E101C158.Up2Date
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Application\obj\Debug\net9.0\Content.Application.dll
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Application\obj\Debug\net9.0\refint\Content.Application.dll
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Application\obj\Debug\net9.0\Content.Application.pdb
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Application\obj\Debug\net9.0\ref\Content.Application.dll

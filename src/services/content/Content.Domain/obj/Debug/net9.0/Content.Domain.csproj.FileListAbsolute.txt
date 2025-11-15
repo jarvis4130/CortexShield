@@ -1,0 +1,12 @@
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Domain\bin\Debug\net9.0\Content.Domain.deps.json
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Domain\bin\Debug\net9.0\Content.Domain.dll
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Domain\bin\Debug\net9.0\Content.Domain.pdb
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Domain\obj\Debug\net9.0\Content.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Domain\obj\Debug\net9.0\Content.Domain.AssemblyInfoInputs.cache
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Domain\obj\Debug\net9.0\Content.Domain.AssemblyInfo.cs
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Domain\obj\Debug\net9.0\Content.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Domain\obj\Debug\net9.0\Content.Domain.sourcelink.json
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Domain\obj\Debug\net9.0\Content.Domain.dll
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Domain\obj\Debug\net9.0\refint\Content.Domain.dll
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Domain\obj\Debug\net9.0\Content.Domain.pdb
+C:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\content\Content.Domain\obj\Debug\net9.0\ref\Content.Domain.dll
