@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ky1bIEt35eQGEx9ZhO2TIK7Ksz3ybkvdcwrjSSWG+20=",
+  "Source": "Upload.Api",
+  "BasePath": "_content/Upload.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

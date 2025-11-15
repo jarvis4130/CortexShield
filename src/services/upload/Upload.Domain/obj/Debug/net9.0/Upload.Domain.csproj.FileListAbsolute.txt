@@ -1,0 +1,11 @@
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Domain\bin\Debug\net9.0\Upload.Domain.deps.json
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Domain\bin\Debug\net9.0\Upload.Domain.dll
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Domain\bin\Debug\net9.0\Upload.Domain.pdb
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Domain\obj\Debug\net9.0\Upload.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Domain\obj\Debug\net9.0\Upload.Domain.AssemblyInfoInputs.cache
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Domain\obj\Debug\net9.0\Upload.Domain.AssemblyInfo.cs
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Domain\obj\Debug\net9.0\Upload.Domain.csproj.CoreCompileInputs.cache
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Domain\obj\Debug\net9.0\Upload.Domain.dll
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Domain\obj\Debug\net9.0\refint\Upload.Domain.dll
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Domain\obj\Debug\net9.0\Upload.Domain.pdb
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Domain\obj\Debug\net9.0\ref\Upload.Domain.dll

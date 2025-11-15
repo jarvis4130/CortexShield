@@ -1,0 +1,15 @@
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Application\bin\Debug\net9.0\Upload.Application.deps.json
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Application\bin\Debug\net9.0\Upload.Application.dll
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Application\bin\Debug\net9.0\Upload.Application.pdb
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Application\bin\Debug\net9.0\Upload.Domain.dll
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Application\bin\Debug\net9.0\Upload.Domain.pdb
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Application\obj\Debug\net9.0\Upload.Application.csproj.AssemblyReference.cache
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Application\obj\Debug\net9.0\Upload.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Application\obj\Debug\net9.0\Upload.Application.AssemblyInfoInputs.cache
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Application\obj\Debug\net9.0\Upload.Application.AssemblyInfo.cs
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Application\obj\Debug\net9.0\Upload.Application.csproj.CoreCompileInputs.cache
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Application\obj\Debug\net9.0\Upload.A.6334624A.Up2Date
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Application\obj\Debug\net9.0\Upload.Application.dll
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Application\obj\Debug\net9.0\refint\Upload.Application.dll
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Application\obj\Debug\net9.0\Upload.Application.pdb
+c:\Users\LAVANYA\OneDrive\Desktop\CortexShield – Real-time Intelligent Content Moderation System\src\services\upload\Upload.Application\obj\Debug\net9.0\ref\Upload.Application.dll
